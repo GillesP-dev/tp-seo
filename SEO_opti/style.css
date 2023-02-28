@@ -1,13 +1,10 @@
 .all-images .block .description p,
 h1 {
-    font-family:  serif;
+    font-family: serif;
     letter-spacing: 5px
 }
 
-@font-face {
-    font-family:  serif;
-    
-}
+
 
 :root {
     --light: white;
